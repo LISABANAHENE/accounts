@@ -1,4 +1,4 @@
 function (name) {
-	console.log('Account' + name)
+	console.log('Accounts' + name)
 }
 
