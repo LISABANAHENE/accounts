@@ -1,2 +1,2 @@
 def sayHellow(name):
-    print('Hello ' + name)
+    print('Budget ' + name)
